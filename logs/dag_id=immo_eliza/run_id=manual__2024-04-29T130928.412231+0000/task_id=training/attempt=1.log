@@ -1,0 +1,26 @@
+[2024-04-29T13:09:31.092+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-04-29T13:09:31.130+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: immo_eliza.training manual__2024-04-29T13:09:28.412231+00:00 [queued]>
+[2024-04-29T13:09:31.149+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: immo_eliza.training manual__2024-04-29T13:09:28.412231+00:00 [queued]>
+[2024-04-29T13:09:31.151+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2024-04-29T13:09:31.179+0000] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): training> on 2024-04-29 13:09:28.412231+00:00
+[2024-04-29T13:09:31.191+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=1573) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-04-29T13:09:31.194+0000] {standard_task_runner.py:63} INFO - Started process 1593 to run task
+[2024-04-29T13:09:31.195+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'immo_eliza', 'training', 'manual__2024-04-29T13:09:28.412231+00:00', '--job-id', '21', '--raw', '--subdir', 'DAGS_FOLDER/eliza.py', '--cfg-path', '/tmp/tmpksbz0kn6']
+[2024-04-29T13:09:31.200+0000] {standard_task_runner.py:91} INFO - Job 21: Subtask training
+[2024-04-29T13:09:31.302+0000] {task_command.py:426} INFO - Running <TaskInstance: immo_eliza.training manual__2024-04-29T13:09:28.412231+00:00 [running]> on host 2f572e0ad8bc
+[2024-04-29T13:09:31.484+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='immo_eliza' AIRFLOW_CTX_TASK_ID='training' AIRFLOW_CTX_EXECUTION_DATE='2024-04-29T13:09:28.412231+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-04-29T13:09:28.412231+00:00'
+[2024-04-29T13:09:31.486+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-04-29T13:09:32.013+0000] {warnings.py:110} WARNING - /opt/***/dags/eliza/machinelearning/train.py:19: DtypeWarning: Columns (30) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv(data_file)
+
+[2024-04-29T13:10:30.684+0000] {logging_mixin.py:188} INFO - Mean Absolute Error: 108758.37 euros.
+[2024-04-29T13:10:30.685+0000] {logging_mixin.py:188} INFO - Accuracy: 74.27 %.
+[2024-04-29T13:10:30.686+0000] {logging_mixin.py:188} INFO - ['Kitchen Type', 'Garden Surface', 'Habitable Surface', 'Terrace Surface', 'Furnished', 'Openfire', 'State of Building', 'EPC', 'Swimming Pool', 'Type_APARTMENT', 'Type_HOUSE', 'Province_ANTWERPEN', 'Province_BRUSSEL', 'Province_HENEGOUWEN', 'Province_LIMBURG', 'Province_OOST-VLAANDEREN', 'Province_VLAAMS-BRABANT', 'Province_WAALS-BRABANT', 'Province_WEST-VLAANDEREN', 'Region_Brussels', 'Region_Flanders', 'Region_Wallonia']
+[2024-04-29T13:10:30.770+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-04-29T13:10:30.772+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-04-29T13:10:30.783+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=immo_eliza, task_id=training, execution_date=20240429T130928, start_date=20240429T130931, end_date=20240429T131030
+[2024-04-29T13:10:30.832+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-04-29T13:10:30.851+0000] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-04-29T13:10:30.855+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
