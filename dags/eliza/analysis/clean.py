@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from pandas import DataFrame
 import os
+from datetime import datetime
 
 
 def load_data(path: str) -> DataFrame:
@@ -182,9 +183,14 @@ def price_per_sqm(df: DataFrame):
 
 
 def main():
+    time = datetime.now().strftime("%Y-%m-%d")
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    previous_dir = os.path.dirname(current_dir)
+    collection_dir = os.path.join(previous_dir, "collection", "scrapy", "data")
+    data_file = os.path.join(collection_dir, f"data_{time}.csv")
     # And Finally, the main function
     # We start off by loading the raw data
-    raw_data = load_data("rawdata.csv")
+    raw_data = load_data(data_file)
     # We then fill in the empty data
     filled_data = fill_empty_data(raw_data)
     # We then append the data
@@ -214,8 +220,7 @@ def main():
     # We use the price_per_sqm function to create a new column 'Price per Sqm'
     converted_data = price_per_sqm(converted_data)
     # We output the data to a new csv file
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    newpath = os.path.join(current_dir, "data", "cleaned", "appended_data.csv")
+    newpath = os.path.join(current_dir, "data", "cleaned", f"appended_data_{time}.csv")
     converted_data.to_csv(newpath)
 
 

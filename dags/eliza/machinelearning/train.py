@@ -12,10 +12,11 @@ import os
 
 def train():
     # Read the .csv file
+    time = datetime.now().strftime("%Y-%m-%d")
     current_dir = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.path.join(current_dir, "data")
     cleaned_dir = os.path.join(data_dir, "cleaned")
-    data_file = os.path.join(cleaned_dir, "data.csv")
+    data_file = os.path.join(cleaned_dir, f"data_{time}.csv")
     data = pd.read_csv(data_file)
     columns_to_use = [
         "Type",
@@ -107,7 +108,6 @@ def train():
     feature_names = X.columns.tolist()
     print(feature_names)
 
-    time = datetime.now().strftime("%Y-%m-%d")
     model_dir = os.path.join(current_dir, f"model_imputed_{time}.pkl")
     # Save the model
     with open(model_dir, "wb") as file:

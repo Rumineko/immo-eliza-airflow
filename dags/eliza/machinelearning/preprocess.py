@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from pandas import DataFrame
 import os
+from datetime import datetime
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 previous_dir = os.path.dirname(current_dir)
@@ -440,12 +441,13 @@ def price_per_sqm(df: DataFrame):
 
 
 def cleaning():
+    time = datetime.now().strftime("%Y-%m-%d")
     base_dir = os.path.dirname(os.path.abspath(__file__))
     previous_dir = os.path.dirname(base_dir)
     collection_dir = os.path.join(previous_dir, "collection")
     scrapy_dir = os.path.join(collection_dir, "scrapy")
     data_dir = os.path.join(scrapy_dir, "data")
-    csv = os.path.join(data_dir, "data.csv")
+    csv = os.path.join(data_dir, f"data_{time}.csv")
     # And Finally, the main function
     # We start off by loading the raw data
     raw_data = load_data(csv)
@@ -477,7 +479,7 @@ def cleaning():
     filled_data = price_per_sqm(filled_data)
     # We output the data to a new csv file
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    newpath = os.path.join(current_dir, "data", "cleaned", "data.csv")
+    newpath = os.path.join(current_dir, "data", "cleaned", f"data_{time}.csv")
     filled_data.to_csv(newpath)
 
 
