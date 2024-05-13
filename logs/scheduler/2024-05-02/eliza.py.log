@@ -4450,3 +4450,10 @@
 [2024-05-02T13:59:38.732+0000] {logging_mixin.py:188} INFO - [2024-05-02T13:59:38.731+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-02T13:59:38.752+0000] {logging_mixin.py:188} INFO - [2024-05-02T13:59:38.751+0000] {dag.py:3954} INFO - Setting next_dagrun for immo_eliza to 2024-05-02 00:00:00+00:00, run_after=2024-05-03 00:00:00+00:00
 [2024-05-02T13:59:38.773+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/eliza.py took 1.167 seconds
+[2024-05-02T14:00:08.890+0000] {processor.py:161} INFO - Started process (PID=12391) to work on /opt/airflow/dags/eliza.py
+[2024-05-02T14:00:08.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/eliza.py for tasks to queue
+[2024-05-02T14:00:08.894+0000] {logging_mixin.py:188} INFO - [2024-05-02T14:00:08.894+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/eliza.py
+[2024-05-02T14:00:10.123+0000] {processor.py:840} INFO - DAG(s) 'immo_eliza' retrieved from /opt/airflow/dags/eliza.py
+[2024-05-02T14:00:10.148+0000] {logging_mixin.py:188} INFO - [2024-05-02T14:00:10.147+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-02T14:00:10.169+0000] {logging_mixin.py:188} INFO - [2024-05-02T14:00:10.169+0000] {dag.py:3954} INFO - Setting next_dagrun for immo_eliza to 2024-05-02 00:00:00+00:00, run_after=2024-05-03 00:00:00+00:00
+[2024-05-02T14:00:10.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/eliza.py took 1.308 seconds
