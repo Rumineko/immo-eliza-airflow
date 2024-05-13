@@ -1,0 +1,485 @@
+{
+    "cluster": {
+        "bedroomRange": "2",
+        "maxPrice": 477500,
+        "maxPriceVAT": null,
+        "maxSurface": 135,
+        "minPrice": 344500,
+        "minPriceVAT": null,
+        "minSurface": 97,
+        "projectInfo": {
+            "constructor": 2228772,
+            "deliveryDate": null,
+            "groupId": 10131353,
+            "phase": null,
+            "projectName": "The Vineyard te Brakel",
+            "soldPercentage": 65,
+            "unitsDisplayMode": "STANDARD"
+        },
+        "surfaceRange": "97 - 135",
+        "units": [
+            {
+                "bedroomCount": 2,
+                "items": [
+                    10134969,
+                    10134966,
+                    10134971,
+                    10134973,
+                    10134970,
+                    10134967,
+                    10134968,
+                    10134972,
+                    10134974,
+                    10134965
+                ],
+                "maxPrice": 394500,
+                "maxSurface": 109,
+                "minPrice": 344500,
+                "minSurface": 104,
+                "mnemonic": "APARTMENT_2BDR",
+                "propertySubtype": "APARTMENT",
+                "propertyType": "APARTMENT",
+                "soldCount": 6
+            },
+            {
+                "bedroomCount": 2,
+                "items": [
+                    10131440,
+                    10131442,
+                    10131444,
+                    10131446,
+                    10131441,
+                    10131445,
+                    10131443,
+                    10131418,
+                    10131447
+                ],
+                "maxPrice": 477500,
+                "maxSurface": 135,
+                "minPrice": 346500,
+                "minSurface": 97,
+                "mnemonic": "GROUNDFLOOR_2BDR",
+                "propertySubtype": "GROUND_FLOOR",
+                "propertyType": "APARTMENT",
+                "soldCount": 2
+            },
+            {
+                "bedroomCount": 2,
+                "items": [
+                    10137323,
+                    10137321,
+                    10137322
+                ],
+                "maxPrice": null,
+                "maxSurface": null,
+                "minPrice": null,
+                "minSurface": null,
+                "mnemonic": "PENTHOUSE_2BDR",
+                "propertySubtype": "PENTHOUSE",
+                "propertyType": "APARTMENT",
+                "soldCount": 3
+            },
+            {
+                "bedroomCount": 3,
+                "items": [
+                    10137442,
+                    10137443
+                ],
+                "maxPrice": null,
+                "maxSurface": null,
+                "minPrice": null,
+                "minSurface": null,
+                "mnemonic": "PENTHOUSE_3BDR",
+                "propertySubtype": "PENTHOUSE",
+                "propertyType": "APARTMENT",
+                "soldCount": 2
+            }
+        ]
+    },
+    "customers": [
+        {
+            "contactHoursLandline": "anytime",
+            "contactHoursMobile": "anytime",
+            "email": "info@vastia.be",
+            "features": {
+                "investorFlag": false,
+                "leadQualification": false,
+                "leafletsCTA": false,
+                "page404": false,
+                "recommendation": false,
+                "relatedClassifieds": false
+            },
+            "id": 2228772,
+            "ipiNo": null,
+            "isOwner": true,
+            "location": {
+                "approximated": null,
+                "box": null,
+                "country": "Belgium",
+                "distance": null,
+                "district": "Halle-Vilvoorde",
+                "floor": null,
+                "hasSeaView": null,
+                "latitude": 50.9204076,
+                "locality": "Wemmel",
+                "longitude": 4.3356825,
+                "number": null,
+                "placeName": null,
+                "pointsOfInterest": null,
+                "postalCode": "1780",
+                "propertyName": null,
+                "province": "Flemish Brabant",
+                "region": null,
+                "regionCode": null,
+                "street": "Zijp 160",
+                "type": null
+            },
+            "logoUrl": "https://static.immoweb.be/logos/2228772.gif?cache=2024011304533",
+            "mobileNumber": null,
+            "name": "Vastia NV",
+            "phoneNumber": "+3222610000",
+            "salesRepresentative": {
+                "email": "stephanie.steeland@vastia.be",
+                "landLine": "+32 2 261 00 00",
+                "name": null
+            },
+            "type": "PROPERTY_DEVELOPER",
+            "website": null
+        }
+    ],
+    "displayFlags": {
+        "main": null,
+        "percentSold": 65,
+        "secondary": [
+            "new_real_estate_project",
+            "percent_sold"
+        ]
+    },
+    "externalReference": null,
+    "flags": {
+        "adQuality": null,
+        "date": null,
+        "default": null,
+        "isAnInteractiveSale": null,
+        "isInvestmentProject": false,
+        "isLifeAnnuitySale": false,
+        "isLowEnergy": null,
+        "isNewClassified": false,
+        "isNewPrice": false,
+        "isNewRealEstateProject": true,
+        "isNewlyBuilt": true,
+        "isNotarySale": null,
+        "isPassiveHouse": null,
+        "isPublicSale": false,
+        "isSoldOrRented": false,
+        "isUnderOption": false,
+        "percentSold": 65,
+        "price": null,
+        "priceSqm": null
+    },
+    "hasSectionsArray": {
+        "hasEnergySection": false,
+        "hasExteriorSection": false,
+        "hasFacilitiesSection": false,
+        "hasFinancialSection": false,
+        "hasGeneralSection": true,
+        "hasInteriorSection": false,
+        "hasPlanningSection": true,
+        "hasPublicSaleSection": false
+    },
+    "id": 10131353,
+    "isBookmarked": false,
+    "media": {
+        "floorPlans": [
+            "https://media.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/plans/d97c2791f4248b7c7faa1c0a4f5de069.pdf"
+        ],
+        "pictures": [
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/f8c4c54b0e9ecbb035463531759e2e5f.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/f8c4c54b0e9ecbb035463531759e2e5f.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/f8c4c54b0e9ecbb035463531759e2e5f.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/bc86c4e9c6643e0444d0f93bc07cd12f.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/bc86c4e9c6643e0444d0f93bc07cd12f.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/bc86c4e9c6643e0444d0f93bc07cd12f.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/33fce9b7fa12963a4098fd119c3ae95d.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/33fce9b7fa12963a4098fd119c3ae95d.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/33fce9b7fa12963a4098fd119c3ae95d.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/5e860e4bc4322cbc9c083f6fe26ecf37.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/5e860e4bc4322cbc9c083f6fe26ecf37.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/5e860e4bc4322cbc9c083f6fe26ecf37.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/bd055f54f4ee3fceb7745939c5c30659.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/bd055f54f4ee3fceb7745939c5c30659.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/bd055f54f4ee3fceb7745939c5c30659.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/2ec3cbf6548709a94228d2f2f6d84c74.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/2ec3cbf6548709a94228d2f2f6d84c74.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/2ec3cbf6548709a94228d2f2f6d84c74.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/5ac26338b0ab8bfa8968353b46f4e070.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/5ac26338b0ab8bfa8968353b46f4e070.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/5ac26338b0ab8bfa8968353b46f4e070.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/ffb30078c8b62967932a7bcac38bbda2.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/ffb30078c8b62967932a7bcac38bbda2.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/ffb30078c8b62967932a7bcac38bbda2.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/1f7931fbc580e3171338add60e0cfe09.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/1f7931fbc580e3171338add60e0cfe09.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/1f7931fbc580e3171338add60e0cfe09.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/1779d760e7bcefbc3f52aef89ea0c90e.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/1779d760e7bcefbc3f52aef89ea0c90e.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/1779d760e7bcefbc3f52aef89ea0c90e.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/ae45337e8ce2ac1dc5a467fd2d982b16.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/ae45337e8ce2ac1dc5a467fd2d982b16.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/ae45337e8ce2ac1dc5a467fd2d982b16.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/593676716ec28e6cfd0db94731b921a8.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/593676716ec28e6cfd0db94731b921a8.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/593676716ec28e6cfd0db94731b921a8.jpg?cache=20240213073407"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/736x736/11a80ccf5da9554f4f780016505f34d1.jpg?cache=20240213073407",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/300x300/11a80ccf5da9554f4f780016505f34d1.jpg?cache=20240213073407",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/5c0aee3e-7d7a-58f7-ae2e-e3f81bbbd6bd/100x100/11a80ccf5da9554f4f780016505f34d1.jpg?cache=20240213073407"
+            }
+        ],
+        "specifications": null,
+        "virtualExperienceUrl": null,
+        "virtualTourUrl": null
+    },
+    "premiumProjectPage": {
+        "medias": null,
+        "options": null,
+        "promoter": null,
+        "tabs": null
+    },
+    "price": {
+        "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac344,500 - \u20ac477,500</span>",
+        "accessibilityPrice": "From 344500\u20ac To 477500\u20ac",
+        "additionalValue": null,
+        "alternativeDisplayPrice": "",
+        "alternativeValue": null,
+        "date": null,
+        "label": "Min price - Max price",
+        "language": "en",
+        "mainDisplayPrice": "\u20ac344,500 - \u20ac477,500",
+        "mainValue": null,
+        "maxRangeValue": 477500,
+        "minRangeValue": 344500,
+        "oldDisplayPrice": null,
+        "oldValue": null,
+        "shortDisplayPrice": "\u20ac344.5K - 477.5K",
+        "type": "group_sale"
+    },
+    "priceType": null,
+    "property": {
+        "alternativeDescriptions": {
+            "nl": "Het exclusieve project Residentie THE VINEYARD combineert het beste van twee werelden. \n\nGelegen in Brakel, vlakbij Oudenaarde en Geraardsbergen, omzoomd door een groene vallei met prachtige wijngaard, veel bomen en gras en toch dichtbij het centrum van Brakel.\n\nDe luxe BEN  (\u2018bijna-energieneutraal\u2019) \u2013 appartementen zijn stijlvol en heerlijk ruim, maar vooral tot in de puntjes uitgekiend. Ze zijn op alles voorzien, goed beveiligd en voorzien van een high-end afwerking. De ruime appartementen en penthouses hebben schitterende leefterrassen met een eindeloos zicht op een groene vallei en de achterliggende natuur als decor. De ideale plek om tot rust te komen na een intensieve dag of om uw gasten in een karaktervol decor te ontvangen.Wij maken uitsluitend gebruik van alternatieve, duurzame energie en passen een doorgedreven isolatie toe voor een uiterst beperkt energieverbruik. Er wordt gebruik gemaakt van warmtepompen en vloerverwarming. Hoogrendementsglas en een stevig pakket aan isolatie in de wanden garanderen optimale isolatiewaarden.\n\nHet project met lift bestaat uit high-end tuinappartementen, luxeappartementen en signature penthouses, elke met ruime 2 & 3 slaapkamers.\n\nElk appartement beschikt tevens over een priv\u00e9 terras of tuin met eindeloos zicht op de groene vallei en de wijngaard. De doorzonwoningen zijn stijlvol en heerlijk ruim, maar vooral tot in de puntjes uitgekiend.\n\nThe Vineyard beschikt over een ruime ondergrondse parking en een berging per appartement"
+        },
+        "attic": null,
+        "basement": null,
+        "bathroomCount": null,
+        "bathrooms": [],
+        "bedroomCount": null,
+        "bedroomSurface": null,
+        "bedrooms": [],
+        "building": null,
+        "constructionPermit": {
+            "constructionType": "ALL_KIND",
+            "floodZoneIconUrl": null,
+            "floodZoneType": "NON_FLOOD_ZONE",
+            "gScore": null,
+            "hasObligationToConstruct": null,
+            "hasPlotDivisionAuthorization": null,
+            "hasPossiblePriorityPurchaseRight": null,
+            "isBreachingUrbanPlanningRegulation": false,
+            "isObtained": true,
+            "pScore": null,
+            "totalBuildableGroundFloorSurface": 0,
+            "urbanPlanningInformation": null
+        },
+        "description": null,
+        "diningRoom": null,
+        "energy": null,
+        "fireplaceCount": null,
+        "fireplaceExists": false,
+        "gardenOrientation": null,
+        "gardenSurface": null,
+        "habitableUnitCount": null,
+        "hasAirConditioning": null,
+        "hasArmoredDoor": null,
+        "hasAttic": null,
+        "hasBalcony": null,
+        "hasBarbecue": null,
+        "hasBasement": null,
+        "hasCableTV": null,
+        "hasCaretakerOrConcierge": null,
+        "hasDiningRoom": null,
+        "hasDisabledAccess": null,
+        "hasDoorPhone": null,
+        "hasDressingRoom": null,
+        "hasFitnessRoom": null,
+        "hasGarden": null,
+        "hasHammam": null,
+        "hasInternet": null,
+        "hasJacuzzi": null,
+        "hasLaundryRoom": null,
+        "hasLift": null,
+        "hasLivingRoom": false,
+        "hasSauna": null,
+        "hasSecureAccessAlarm": null,
+        "hasSwimmingPool": null,
+        "hasTennisCourt": null,
+        "hasTerrace": null,
+        "hasVisiophone": null,
+        "isFirstOccupation": null,
+        "isHolidayProperty": null,
+        "kitchen": null,
+        "land": null,
+        "laundryRoom": null,
+        "livingRoom": null,
+        "location": {
+            "approximated": null,
+            "box": null,
+            "country": "Belgium",
+            "distance": null,
+            "district": "Oudenaarde",
+            "floor": null,
+            "hasSeaView": null,
+            "latitude": 50.7975063,
+            "locality": "Brakel",
+            "longitude": 3.7569401,
+            "number": "24 - 46",
+            "placeName": null,
+            "pointsOfInterest": [
+                {
+                    "distance": 0,
+                    "type": "SCHOOL"
+                },
+                {
+                    "distance": 0,
+                    "type": "SHOPS"
+                },
+                {
+                    "distance": 0,
+                    "type": "TRANSPORT"
+                }
+            ],
+            "postalCode": "9660",
+            "propertyName": null,
+            "province": "East Flanders",
+            "region": "Flanders",
+            "regionCode": "FLANDERS",
+            "street": "Ronsesestraat",
+            "type": null
+        },
+        "monthlyCosts": null,
+        "name": null,
+        "netHabitableSurface": null,
+        "parkingCountClosedBox": null,
+        "parkingCountIndoor": null,
+        "parkingCountOutdoor": null,
+        "propertyCertificates": null,
+        "roomCount": null,
+        "showerRoomCount": null,
+        "showerRooms": [],
+        "specificities": null,
+        "subtype": "APARTMENT_GROUP",
+        "terraceOrientation": null,
+        "terraceSurface": null,
+        "title": null,
+        "toiletCount": null,
+        "toilets": [],
+        "type": "APARTMENT_GROUP"
+    },
+    "publication": {
+        "creationDate": "2022-09-23T14:59:39.000+0000",
+        "expirationDate": "2024-05-31T21:59:59.000+0000",
+        "lastModificationDate": "2024-04-29T10:56:59.513+0000",
+        "publisherId": null,
+        "visualisationOption": "M"
+    },
+    "statistics": {
+        "alertPrice": null,
+        "bookmarkCount": 1,
+        "creationDate": null,
+        "description": null,
+        "isAlertEmailSet": null,
+        "rating": null,
+        "viewCount": 5395,
+        "wasOwnerContacted": null,
+        "wasPropertyVisited": null
+    },
+    "transaction": {
+        "availabilityDate": null,
+        "availabilityPeriodType": "AT_DELIVERY",
+        "certificates": null,
+        "investor": {
+            "currentMonthlyRentalIncome": null,
+            "currentReturnOnInvestment": null,
+            "expectedMonthlyRentalIncome": null,
+            "expectedMonthlyRentalIncomeDescription": null,
+            "expectedReturnOnInvestment": null,
+            "habitableUnitCount": null,
+            "isInvestmentProperty": false,
+            "occupancyRate": null
+        },
+        "rental": null,
+        "sale": {
+            "cadastralIncome": 0,
+            "hasStartingPrice": null,
+            "homeToBuild": null,
+            "isFurnished": null,
+            "isSubjectToVat": false,
+            "lifeAnnuity": null,
+            "newBuildsLandPrice": "",
+            "newBuildsLandTaxes": "",
+            "newBuildsTotalPrice": "",
+            "newBuildsVAT": "",
+            "oldPrice": null,
+            "price": null,
+            "pricePerSqm": null,
+            "publicSale": null
+        },
+        "subtype": "BUY_REGULAR",
+        "type": "FOR_SALE"
+    },
+    "unitGroupings": []
+}
+Traceback (most recent call last):
+  File "/opt/airflow/dags/eliza/collection/scrapy/immoweb/spiders/immoweb.py", line 128, in parse_property
+    if sub_property.get('saleStatus', 'SOLD') == 'SOLD':
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'get'
+
+https://www.immoweb.be/en/classified/apartment_group/for-sale/Brakel/9660/10131353

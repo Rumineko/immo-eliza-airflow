@@ -1,0 +1,453 @@
+{
+    "cluster": {
+        "bedroomRange": "3 - 4",
+        "maxPrice": 432500,
+        "maxPriceVAT": null,
+        "maxSurface": 167,
+        "minPrice": 420500,
+        "minPriceVAT": null,
+        "minSurface": 127,
+        "projectInfo": {
+            "constructor": 3888472,
+            "deliveryDate": null,
+            "groupId": 10337211,
+            "phase": null,
+            "projectName": "Bloemenhof woningen",
+            "soldPercentage": null,
+            "unitsDisplayMode": "STANDARD"
+        },
+        "surfaceRange": "127 - 167",
+        "units": [
+            {
+                "bedroomCount": 3,
+                "items": [
+                    10337241
+                ],
+                "maxPrice": 420500,
+                "maxSurface": 127,
+                "minPrice": 420500,
+                "minSurface": 127,
+                "mnemonic": "HOUSE_3FC_3BDR",
+                "propertySubtype": "HOUSE",
+                "propertyType": "HOUSE",
+                "soldCount": 0
+            },
+            {
+                "bedroomCount": 4,
+                "items": [
+                    10337234
+                ],
+                "maxPrice": 423000,
+                "maxSurface": 160,
+                "minPrice": 423000,
+                "minSurface": 160,
+                "mnemonic": "HOUSE_2FC_4BDR",
+                "propertySubtype": "HOUSE",
+                "propertyType": "HOUSE",
+                "soldCount": 0
+            },
+            {
+                "bedroomCount": 3,
+                "items": [
+                    10337237
+                ],
+                "maxPrice": 425500,
+                "maxSurface": 159,
+                "minPrice": 425500,
+                "minSurface": 159,
+                "mnemonic": "HOUSE_2FC_3BDR",
+                "propertySubtype": "HOUSE",
+                "propertyType": "HOUSE",
+                "soldCount": 0
+            },
+            {
+                "bedroomCount": 4,
+                "items": [
+                    10337225,
+                    10337224
+                ],
+                "maxPrice": 432500,
+                "maxSurface": 167,
+                "minPrice": 432500,
+                "minSurface": 167,
+                "mnemonic": "HOUSE_3FC_4BDR",
+                "propertySubtype": "HOUSE",
+                "propertyType": "HOUSE",
+                "soldCount": 1
+            }
+        ]
+    },
+    "customers": [
+        {
+            "contactHoursLandline": "anytime",
+            "contactHoursMobile": "anytime",
+            "email": "wonen@dego.be",
+            "features": {
+                "investorFlag": false,
+                "leadQualification": true,
+                "leafletsCTA": true,
+                "page404": true,
+                "recommendation": true,
+                "relatedClassifieds": true
+            },
+            "id": 3888472,
+            "ipiNo": null,
+            "isOwner": true,
+            "location": {
+                "approximated": null,
+                "box": null,
+                "country": "Belgium",
+                "distance": null,
+                "district": "Turnhout",
+                "floor": null,
+                "hasSeaView": null,
+                "latitude": 51.39301,
+                "locality": "Hoogstraten",
+                "longitude": 4.7421498,
+                "number": null,
+                "placeName": null,
+                "pointsOfInterest": null,
+                "postalCode": "2320",
+                "propertyName": null,
+                "province": "Antwerp",
+                "region": null,
+                "regionCode": null,
+                "street": "Putten 14",
+                "type": null
+            },
+            "logoUrl": "https://static.immoweb.be/logos/3888472.gif?cache=2024381002917",
+            "mobileNumber": null,
+            "name": "Dego",
+            "phoneNumber": "+3233143569",
+            "salesRepresentative": null,
+            "type": "PROPERTY_DEVELOPER",
+            "website": "http://www.dego.be"
+        }
+    ],
+    "displayFlags": {
+        "main": null,
+        "percentSold": null,
+        "secondary": [
+            "new_real_estate_project"
+        ]
+    },
+    "externalReference": null,
+    "flags": {
+        "adQuality": null,
+        "date": null,
+        "default": null,
+        "isAnInteractiveSale": null,
+        "isInvestmentProject": false,
+        "isLifeAnnuitySale": false,
+        "isLowEnergy": null,
+        "isNewClassified": false,
+        "isNewPrice": false,
+        "isNewRealEstateProject": true,
+        "isNewlyBuilt": true,
+        "isNotarySale": null,
+        "isPassiveHouse": null,
+        "isPublicSale": false,
+        "isSoldOrRented": false,
+        "isUnderOption": false,
+        "percentSold": null,
+        "price": null,
+        "priceSqm": null
+    },
+    "hasSectionsArray": {
+        "hasEnergySection": false,
+        "hasExteriorSection": false,
+        "hasFacilitiesSection": false,
+        "hasFinancialSection": false,
+        "hasGeneralSection": true,
+        "hasInteriorSection": false,
+        "hasPlanningSection": true,
+        "hasPublicSaleSection": false
+    },
+    "id": 10337211,
+    "isBookmarked": false,
+    "media": {
+        "floorPlans": null,
+        "pictures": [
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/364216cc58558057f715e20418face82.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/364216cc58558057f715e20418face82.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/364216cc58558057f715e20418face82.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/42bb2142ab7aa1b9848c55f67871a40a.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/42bb2142ab7aa1b9848c55f67871a40a.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/42bb2142ab7aa1b9848c55f67871a40a.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/c74aeba21faef4b39db0c026f3bc026b.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/c74aeba21faef4b39db0c026f3bc026b.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/c74aeba21faef4b39db0c026f3bc026b.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/ba0c1d3be4c32fa2c77d5ff2d94405eb.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/ba0c1d3be4c32fa2c77d5ff2d94405eb.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/ba0c1d3be4c32fa2c77d5ff2d94405eb.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/2c9c45d0465865e3b20fcce43f84703d.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/2c9c45d0465865e3b20fcce43f84703d.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/2c9c45d0465865e3b20fcce43f84703d.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/4c3143f534699fd09ae223fc45208bac.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/4c3143f534699fd09ae223fc45208bac.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/4c3143f534699fd09ae223fc45208bac.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/3628f0aa7f1fc56c96e6c102bba126de.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/3628f0aa7f1fc56c96e6c102bba126de.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/3628f0aa7f1fc56c96e6c102bba126de.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/50e5c263fc3467ded7b99c15b1d91866.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/50e5c263fc3467ded7b99c15b1d91866.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/50e5c263fc3467ded7b99c15b1d91866.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/5455508a0f10ac12291441128c7bd057.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/5455508a0f10ac12291441128c7bd057.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/5455508a0f10ac12291441128c7bd057.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/652efbaf29b4d883927719469a94e3eb.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/652efbaf29b4d883927719469a94e3eb.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/652efbaf29b4d883927719469a94e3eb.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/b2f0a860db181c7558b562e4a769cfde.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/b2f0a860db181c7558b562e4a769cfde.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/b2f0a860db181c7558b562e4a769cfde.jpg?cache=20240322072307"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/736x736/bace1a0650ec8283b625281e65272bbd.jpg?cache=20240322072307",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/300x300/bace1a0650ec8283b625281e65272bbd.jpg?cache=20240322072307",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/8110e393-8ff9-5fd2-91fa-ab84c8313df3/100x100/bace1a0650ec8283b625281e65272bbd.jpg?cache=20240322072307"
+            }
+        ],
+        "specifications": null,
+        "virtualExperienceUrl": null,
+        "virtualTourUrl": null
+    },
+    "premiumProjectPage": {
+        "medias": null,
+        "options": null,
+        "promoter": null,
+        "tabs": null
+    },
+    "price": {
+        "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac420,500 - \u20ac432,500</span>",
+        "accessibilityPrice": "From 420500\u20ac To 432500\u20ac",
+        "additionalValue": null,
+        "alternativeDisplayPrice": "",
+        "alternativeValue": null,
+        "date": null,
+        "label": "Min price - Max price",
+        "language": "en",
+        "mainDisplayPrice": "\u20ac420,500 - \u20ac432,500",
+        "mainValue": null,
+        "maxRangeValue": 432500,
+        "minRangeValue": 420500,
+        "oldDisplayPrice": null,
+        "oldValue": null,
+        "shortDisplayPrice": "\u20ac420.5K - 432.5K",
+        "type": "group_sale"
+    },
+    "priceType": null,
+    "property": {
+        "alternativeDescriptions": {
+            "nl": "Stijlvol wonen in het groen in het hartje van Hoogstraten.\nHet uitgangspunt voor het project is een stijlvolle en hedendaagse architectuur.\nDie focust op kwaliteitsvol wonen met veel aandacht voor licht, lucht en groen.\n\nHet project bestaat uit 3 nieuwe residenties, de villa, ondergrondse staanplaatsen en (fiets)bergingen.\nIn totaal zullen er 33 appartementen en 5 woningen gebouwd worden.\n\nDe architectuur houdt rekening met de privacy van de bewoners. \n\nDe materiaalkeuze en de samenwerking met hoog - kwalitatieve vaste onderaannemers garandeert een hoge afwerkingsgraad.De kopers kiezen zelf de afwerking: keuken, badkamer, vloer, licht,... conform de vooropgestelde budgetten.\nDe inplanting is doordacht voor maximale privacy.\n\nNog extra troeven:\nZeer energiezuinig (1ste 5 jaren 50% korting op K.I.!), zonnepanelen, ventilatiesysteem D en laadinfrastructuur aanwezig!\nDe verwarming en koeling worden volgens de nieuwste technieken met geothermie geplaatst.\n6% btw mogelijk, wel enkele voorwaarden.\n\nDe oplevering staat gepland in zomer 2025."
+        },
+        "attic": null,
+        "basement": null,
+        "bathroomCount": null,
+        "bathrooms": [],
+        "bedroomCount": null,
+        "bedroomSurface": null,
+        "bedrooms": [],
+        "building": null,
+        "constructionPermit": {
+            "constructionType": "ALL_KIND",
+            "floodZoneIconUrl": null,
+            "floodZoneType": "NON_FLOOD_ZONE",
+            "gScore": null,
+            "hasObligationToConstruct": null,
+            "hasPlotDivisionAuthorization": false,
+            "hasPossiblePriorityPurchaseRight": false,
+            "isBreachingUrbanPlanningRegulation": false,
+            "isObtained": true,
+            "pScore": null,
+            "totalBuildableGroundFloorSurface": 0,
+            "urbanPlanningInformation": null
+        },
+        "description": null,
+        "diningRoom": null,
+        "energy": null,
+        "fireplaceCount": null,
+        "fireplaceExists": false,
+        "gardenOrientation": null,
+        "gardenSurface": null,
+        "habitableUnitCount": null,
+        "hasAirConditioning": null,
+        "hasArmoredDoor": null,
+        "hasAttic": null,
+        "hasBalcony": null,
+        "hasBarbecue": null,
+        "hasBasement": null,
+        "hasCableTV": null,
+        "hasCaretakerOrConcierge": null,
+        "hasDiningRoom": null,
+        "hasDisabledAccess": null,
+        "hasDoorPhone": null,
+        "hasDressingRoom": null,
+        "hasFitnessRoom": null,
+        "hasGarden": null,
+        "hasHammam": null,
+        "hasInternet": null,
+        "hasJacuzzi": null,
+        "hasLaundryRoom": null,
+        "hasLift": null,
+        "hasLivingRoom": false,
+        "hasSauna": null,
+        "hasSecureAccessAlarm": null,
+        "hasSwimmingPool": null,
+        "hasTennisCourt": null,
+        "hasTerrace": null,
+        "hasVisiophone": null,
+        "isFirstOccupation": null,
+        "isHolidayProperty": null,
+        "kitchen": null,
+        "land": null,
+        "laundryRoom": null,
+        "livingRoom": null,
+        "location": {
+            "approximated": null,
+            "box": null,
+            "country": "Belgium",
+            "distance": null,
+            "district": "Turnhout",
+            "floor": null,
+            "hasSeaView": null,
+            "latitude": 51.4072058,
+            "locality": "Hoogstraten",
+            "longitude": 4.7634075,
+            "number": "1",
+            "placeName": null,
+            "pointsOfInterest": [
+                {
+                    "distance": 1200,
+                    "type": "SCHOOL"
+                },
+                {
+                    "distance": 500,
+                    "type": "SHOPS"
+                },
+                {
+                    "distance": 50,
+                    "type": "TRANSPORT"
+                }
+            ],
+            "postalCode": "2320",
+            "propertyName": null,
+            "province": "Antwerp",
+            "region": "Flanders",
+            "regionCode": "FLANDERS",
+            "street": "Vrijheid",
+            "type": null
+        },
+        "monthlyCosts": null,
+        "name": null,
+        "netHabitableSurface": null,
+        "parkingCountClosedBox": null,
+        "parkingCountIndoor": null,
+        "parkingCountOutdoor": null,
+        "propertyCertificates": null,
+        "roomCount": null,
+        "showerRoomCount": null,
+        "showerRooms": [],
+        "specificities": null,
+        "subtype": "HOUSE_GROUP",
+        "terraceOrientation": null,
+        "terraceSurface": null,
+        "title": null,
+        "toiletCount": null,
+        "toilets": [],
+        "type": "HOUSE_GROUP"
+    },
+    "publication": {
+        "creationDate": "2023-01-18T09:26:59.000+0000",
+        "expirationDate": "2024-04-30T21:59:59.000+0000",
+        "lastModificationDate": "2024-05-02T06:48:56.910+0000",
+        "publisherId": null,
+        "visualisationOption": "M"
+    },
+    "statistics": {
+        "alertPrice": null,
+        "bookmarkCount": 22,
+        "creationDate": null,
+        "description": null,
+        "isAlertEmailSet": null,
+        "rating": null,
+        "viewCount": 8316,
+        "wasOwnerContacted": null,
+        "wasPropertyVisited": null
+    },
+    "transaction": {
+        "availabilityDate": null,
+        "availabilityPeriodType": "AT_DELIVERY",
+        "certificates": null,
+        "investor": {
+            "currentMonthlyRentalIncome": null,
+            "currentReturnOnInvestment": null,
+            "expectedMonthlyRentalIncome": null,
+            "expectedMonthlyRentalIncomeDescription": null,
+            "expectedReturnOnInvestment": null,
+            "habitableUnitCount": null,
+            "isInvestmentProperty": false,
+            "occupancyRate": null
+        },
+        "rental": null,
+        "sale": {
+            "cadastralIncome": 0,
+            "hasStartingPrice": null,
+            "homeToBuild": null,
+            "isFurnished": null,
+            "isSubjectToVat": false,
+            "lifeAnnuity": null,
+            "newBuildsLandPrice": "",
+            "newBuildsLandTaxes": "",
+            "newBuildsTotalPrice": "",
+            "newBuildsVAT": "",
+            "oldPrice": null,
+            "price": null,
+            "pricePerSqm": null,
+            "publicSale": null
+        },
+        "subtype": "BUY_REGULAR",
+        "type": "FOR_SALE"
+    },
+    "unitGroupings": []
+}
+Traceback (most recent call last):
+  File "/opt/airflow/dags/eliza/collection/scrapy/immoweb/spiders/immoweb.py", line 128, in parse_property
+    if sub_property.get('saleStatus', 'SOLD') == 'SOLD':
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'get'
+
+https://www.immoweb.be/en/classified/house_group/for-sale/Hoogstraten/2320/10337211

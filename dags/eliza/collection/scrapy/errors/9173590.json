@@ -1,0 +1,393 @@
+{
+    "cluster": {
+        "bedroomRange": "3",
+        "maxPrice": 549500,
+        "maxPriceVAT": null,
+        "maxSurface": null,
+        "minPrice": 549500,
+        "minPriceVAT": null,
+        "minSurface": null,
+        "projectInfo": {
+            "constructor": 150359,
+            "deliveryDate": null,
+            "groupId": 9173590,
+            "phase": null,
+            "projectName": "Park View",
+            "soldPercentage": 95,
+            "unitsDisplayMode": "STANDARD"
+        },
+        "surfaceRange": "",
+        "units": [
+            {
+                "bedroomCount": 2,
+                "items": [
+                    9173610,
+                    9173611,
+                    9173612
+                ],
+                "maxPrice": null,
+                "maxSurface": null,
+                "minPrice": null,
+                "minSurface": null,
+                "mnemonic": "APARTMENT_2BDR",
+                "propertySubtype": "APARTMENT",
+                "propertyType": "APARTMENT",
+                "soldCount": 3
+            },
+            {
+                "bedroomCount": 3,
+                "items": [
+                    9173627,
+                    9173623,
+                    9173625,
+                    9173626,
+                    9173624,
+                    9173628,
+                    9173629,
+                    9173630
+                ],
+                "maxPrice": 549500,
+                "maxSurface": null,
+                "minPrice": 549500,
+                "minSurface": null,
+                "mnemonic": "APARTMENT_3BDR",
+                "propertySubtype": "APARTMENT",
+                "propertyType": "APARTMENT",
+                "soldCount": 7
+            }
+        ]
+    },
+    "customers": [
+        {
+            "contactHoursLandline": "anytime",
+            "contactHoursMobile": null,
+            "email": "info@immpact.be",
+            "features": {
+                "investorFlag": false,
+                "leadQualification": true,
+                "leafletsCTA": true,
+                "page404": true,
+                "recommendation": true,
+                "relatedClassifieds": true
+            },
+            "id": 150359,
+            "ipiNo": null,
+            "isOwner": true,
+            "location": {
+                "approximated": null,
+                "box": null,
+                "country": "Belgium",
+                "distance": null,
+                "district": "Antwerp",
+                "floor": null,
+                "hasSeaView": null,
+                "latitude": 51.1945307,
+                "locality": "Antwerpen",
+                "longitude": 4.4113847,
+                "number": null,
+                "placeName": null,
+                "pointsOfInterest": null,
+                "postalCode": "2018",
+                "propertyName": null,
+                "province": "Antwerp",
+                "region": null,
+                "regionCode": null,
+                "street": "Generaal Lemanstraat 55",
+                "type": null
+            },
+            "logoUrl": "https://static.immoweb.be/logos/150359.gif?cache=2024231602120",
+            "mobileNumber": null,
+            "name": "Immpact",
+            "phoneNumber": "+3232859500",
+            "salesRepresentative": null,
+            "type": "PROPERTY_DEVELOPER",
+            "website": "http://www.immpact.be"
+        }
+    ],
+    "displayFlags": {
+        "main": null,
+        "percentSold": 95,
+        "secondary": [
+            "new_real_estate_project",
+            "percent_sold"
+        ]
+    },
+    "externalReference": null,
+    "flags": {
+        "adQuality": null,
+        "date": null,
+        "default": null,
+        "isAnInteractiveSale": null,
+        "isInvestmentProject": false,
+        "isLifeAnnuitySale": false,
+        "isLowEnergy": null,
+        "isNewClassified": false,
+        "isNewPrice": false,
+        "isNewRealEstateProject": true,
+        "isNewlyBuilt": true,
+        "isNotarySale": null,
+        "isPassiveHouse": null,
+        "isPublicSale": false,
+        "isSoldOrRented": false,
+        "isUnderOption": false,
+        "percentSold": 95,
+        "price": null,
+        "priceSqm": null
+    },
+    "hasSectionsArray": {
+        "hasEnergySection": false,
+        "hasExteriorSection": false,
+        "hasFacilitiesSection": false,
+        "hasFinancialSection": false,
+        "hasGeneralSection": true,
+        "hasInteriorSection": false,
+        "hasPlanningSection": false,
+        "hasPublicSaleSection": false
+    },
+    "id": 9173590,
+    "isBookmarked": false,
+    "media": {
+        "floorPlans": null,
+        "pictures": [
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/736x736/0f240703b11dce74a60b32f465ddf548.jpg?cache=20240229111057",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/300x300/0f240703b11dce74a60b32f465ddf548.jpg?cache=20240229111057",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/100x100/0f240703b11dce74a60b32f465ddf548.jpg?cache=20240229111057"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/736x736/8a89e54dcae8c4fd6c418694559ca3a6.jpg?cache=20240229111057",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/300x300/8a89e54dcae8c4fd6c418694559ca3a6.jpg?cache=20240229111057",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/100x100/8a89e54dcae8c4fd6c418694559ca3a6.jpg?cache=20240229111057"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/736x736/a068bdd4718a2ee5b6b838739cd32765.jpg?cache=20240229111057",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/300x300/a068bdd4718a2ee5b6b838739cd32765.jpg?cache=20240229111057",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/100x100/a068bdd4718a2ee5b6b838739cd32765.jpg?cache=20240229111057"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/736x736/abfbdff9f7ec16d70d927257b7d200dc.jpg?cache=20240229111057",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/300x300/abfbdff9f7ec16d70d927257b7d200dc.jpg?cache=20240229111057",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/100x100/abfbdff9f7ec16d70d927257b7d200dc.jpg?cache=20240229111057"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/736x736/82973188a3c0de9d47a8d271e3ca8f07.jpg?cache=20240229111057",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/300x300/82973188a3c0de9d47a8d271e3ca8f07.jpg?cache=20240229111057",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/34c137c9-2219-5662-ba7b-39bc0fe3df80/100x100/82973188a3c0de9d47a8d271e3ca8f07.jpg?cache=20240229111057"
+            }
+        ],
+        "specifications": null,
+        "virtualExperienceUrl": null,
+        "virtualTourUrl": null
+    },
+    "premiumProjectPage": {
+        "medias": null,
+        "options": null,
+        "promoter": null,
+        "tabs": null
+    },
+    "price": {
+        "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac549,500</span>",
+        "accessibilityPrice": "549500\u20ac",
+        "additionalValue": null,
+        "alternativeDisplayPrice": "",
+        "alternativeValue": null,
+        "date": null,
+        "label": "Min price - Max price",
+        "language": "en",
+        "mainDisplayPrice": "\u20ac549,500",
+        "mainValue": null,
+        "maxRangeValue": 549500,
+        "minRangeValue": 549500,
+        "oldDisplayPrice": null,
+        "oldValue": null,
+        "shortDisplayPrice": "\u20ac549.5K",
+        "type": "group_sale"
+    },
+    "priceType": null,
+    "property": {
+        "alternativeDescriptions": {
+            "fr": "Vous n'avez pas la chance de vivre au milieu d'un parc tous les jours. C'est exactement ce que propose la r\u00e9sidence Park View. Le nouveau projet se compose de plusieurs appartements-villas r\u00e9partis sur 3 \u00e9tages. Chaque appartement est \u00e9quip\u00e9 de tout le confort, le luxe et une terrasse de vie spacieuse avec vue sur le parc Novarode. Saisissez votre chance maintenant, car l'offre est limit\u00e9e! Contactez Immpact pour plus d'info // 02 626 29 29 // info@immpact.be // www.parkview-rode.be",
+            "nl": "U krijgt niet elke dag de kans om midden in een park te wonen. Dit is nu net wat residentie Park View u te bieden heeft. Het nieuwe project bestaat uit verscheidene villa-appartementen verdeeld over 3 verdiepingen, elk appartement is voorzien van alle comfort, luxe en een ruim leefterras met zicht op Novarode Park. Grijp nu uw kans, want het aanbod is beperkt! Contacteer Immpact voor meer info // 02 626 29 29 // info@immpact.be // www.parkview-rode.be"
+        },
+        "attic": null,
+        "basement": null,
+        "bathroomCount": null,
+        "bathrooms": [],
+        "bedroomCount": null,
+        "bedroomSurface": null,
+        "bedrooms": [],
+        "building": null,
+        "constructionPermit": {
+            "constructionType": null,
+            "floodZoneIconUrl": null,
+            "floodZoneType": null,
+            "gScore": null,
+            "hasObligationToConstruct": null,
+            "hasPlotDivisionAuthorization": null,
+            "hasPossiblePriorityPurchaseRight": null,
+            "isBreachingUrbanPlanningRegulation": null,
+            "isObtained": null,
+            "pScore": null,
+            "totalBuildableGroundFloorSurface": 0,
+            "urbanPlanningInformation": null
+        },
+        "description": null,
+        "diningRoom": null,
+        "energy": null,
+        "fireplaceCount": null,
+        "fireplaceExists": false,
+        "gardenOrientation": null,
+        "gardenSurface": null,
+        "habitableUnitCount": null,
+        "hasAirConditioning": null,
+        "hasArmoredDoor": null,
+        "hasAttic": null,
+        "hasBalcony": null,
+        "hasBarbecue": null,
+        "hasBasement": null,
+        "hasCableTV": null,
+        "hasCaretakerOrConcierge": null,
+        "hasDiningRoom": null,
+        "hasDisabledAccess": null,
+        "hasDoorPhone": null,
+        "hasDressingRoom": null,
+        "hasFitnessRoom": null,
+        "hasGarden": null,
+        "hasHammam": null,
+        "hasInternet": null,
+        "hasJacuzzi": null,
+        "hasLaundryRoom": null,
+        "hasLift": null,
+        "hasLivingRoom": false,
+        "hasSauna": null,
+        "hasSecureAccessAlarm": null,
+        "hasSwimmingPool": null,
+        "hasTennisCourt": null,
+        "hasTerrace": null,
+        "hasVisiophone": null,
+        "isFirstOccupation": null,
+        "isHolidayProperty": null,
+        "kitchen": null,
+        "land": null,
+        "laundryRoom": null,
+        "livingRoom": null,
+        "location": {
+            "approximated": null,
+            "box": null,
+            "country": "Belgium",
+            "distance": null,
+            "district": "Halle-Vilvoorde",
+            "floor": null,
+            "hasSeaView": null,
+            "latitude": 50.7477046,
+            "locality": "St-Genesius-Rode",
+            "longitude": 4.3611168,
+            "number": "6",
+            "placeName": "Novarode Park",
+            "pointsOfInterest": [
+                {
+                    "distance": 0,
+                    "type": "SCHOOL"
+                },
+                {
+                    "distance": 0,
+                    "type": "SHOPS"
+                },
+                {
+                    "distance": 0,
+                    "type": "TRANSPORT"
+                }
+            ],
+            "postalCode": "1640",
+            "propertyName": null,
+            "province": "Flemish Brabant",
+            "region": "Flanders",
+            "regionCode": "FLANDERS",
+            "street": "Stationsstraat",
+            "type": null
+        },
+        "monthlyCosts": null,
+        "name": null,
+        "netHabitableSurface": null,
+        "parkingCountClosedBox": null,
+        "parkingCountIndoor": null,
+        "parkingCountOutdoor": null,
+        "propertyCertificates": null,
+        "roomCount": null,
+        "showerRoomCount": null,
+        "showerRooms": [],
+        "specificities": null,
+        "subtype": "APARTMENT_GROUP",
+        "terraceOrientation": null,
+        "terraceSurface": null,
+        "title": null,
+        "toiletCount": null,
+        "toilets": [],
+        "type": "APARTMENT_GROUP"
+    },
+    "publication": {
+        "creationDate": "2021-02-15T14:12:45.000+0000",
+        "expirationDate": "2024-04-30T21:59:59.000+0000",
+        "lastModificationDate": "2024-05-02T06:48:56.910+0000",
+        "publisherId": null,
+        "visualisationOption": "L"
+    },
+    "statistics": {
+        "alertPrice": null,
+        "bookmarkCount": 15,
+        "creationDate": null,
+        "description": null,
+        "isAlertEmailSet": null,
+        "rating": null,
+        "viewCount": 4963,
+        "wasOwnerContacted": null,
+        "wasPropertyVisited": null
+    },
+    "transaction": {
+        "availabilityDate": null,
+        "availabilityPeriodType": "AT_DELIVERY",
+        "certificates": null,
+        "investor": {
+            "currentMonthlyRentalIncome": null,
+            "currentReturnOnInvestment": null,
+            "expectedMonthlyRentalIncome": null,
+            "expectedMonthlyRentalIncomeDescription": null,
+            "expectedReturnOnInvestment": null,
+            "habitableUnitCount": null,
+            "isInvestmentProperty": false,
+            "occupancyRate": null
+        },
+        "rental": null,
+        "sale": {
+            "cadastralIncome": 0,
+            "hasStartingPrice": null,
+            "homeToBuild": null,
+            "isFurnished": null,
+            "isSubjectToVat": false,
+            "lifeAnnuity": null,
+            "newBuildsLandPrice": "",
+            "newBuildsLandTaxes": "",
+            "newBuildsTotalPrice": "",
+            "newBuildsVAT": "",
+            "oldPrice": null,
+            "price": null,
+            "pricePerSqm": null,
+            "publicSale": null
+        },
+        "subtype": "BUY_REGULAR",
+        "type": "FOR_SALE"
+    },
+    "unitGroupings": []
+}
+Traceback (most recent call last):
+  File "/opt/airflow/dags/eliza/collection/scrapy/immoweb/spiders/immoweb.py", line 128, in parse_property
+    if sub_property.get('saleStatus', 'SOLD') == 'SOLD':
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'get'
+
+https://www.immoweb.be/en/classified/apartment_group/for-sale/St-Genesius-Rode/1640/9173590

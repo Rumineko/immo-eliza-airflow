@@ -1,0 +1,394 @@
+{
+    "cluster": {
+        "bedroomRange": "3",
+        "maxPrice": 362591,
+        "maxPriceVAT": null,
+        "maxSurface": 163,
+        "minPrice": 332124,
+        "minPriceVAT": null,
+        "minSurface": 138,
+        "projectInfo": {
+            "constructor": null,
+            "deliveryDate": null,
+            "groupId": 9613764,
+            "phase": null,
+            "projectName": "Maison cl\u00e9 sur porte",
+            "soldPercentage": null,
+            "unitsDisplayMode": "STANDARD"
+        },
+        "surfaceRange": "138 - 163",
+        "units": [
+            {
+                "bedroomCount": 3,
+                "items": [
+                    9613783,
+                    9613784,
+                    9613781,
+                    9613780,
+                    9613785,
+                    9613782
+                ],
+                "maxPrice": 362591,
+                "maxSurface": 163,
+                "minPrice": 332824,
+                "minSurface": 142,
+                "mnemonic": "HOUSE_2FC_3BDR",
+                "propertySubtype": "HOUSE",
+                "propertyType": "HOUSE",
+                "soldCount": 2
+            },
+            {
+                "bedroomCount": 3,
+                "items": [
+                    9613772,
+                    9613773,
+                    9613771,
+                    9613770,
+                    9613768,
+                    9613767,
+                    9613769,
+                    9613766
+                ],
+                "maxPrice": 351592,
+                "maxSurface": 138,
+                "minPrice": 332124,
+                "minSurface": 138,
+                "mnemonic": "VILLA_3FC_3BDR",
+                "propertySubtype": "VILLA",
+                "propertyType": "HOUSE",
+                "soldCount": 1
+            }
+        ]
+    },
+    "customers": [
+        {
+            "contactHoursLandline": "anytime",
+            "contactHoursMobile": null,
+            "email": "commercial@lamy.be",
+            "features": {
+                "investorFlag": false,
+                "leadQualification": true,
+                "leafletsCTA": true,
+                "page404": true,
+                "recommendation": true,
+                "relatedClassifieds": true
+            },
+            "id": 254911,
+            "ipiNo": null,
+            "isOwner": true,
+            "location": {
+                "approximated": null,
+                "box": null,
+                "country": "Belgium",
+                "distance": null,
+                "district": "Verviers",
+                "floor": null,
+                "hasSeaView": null,
+                "latitude": 50.6301254,
+                "locality": "Dison",
+                "longitude": 5.8806351,
+                "number": null,
+                "placeName": null,
+                "pointsOfInterest": null,
+                "postalCode": "4821",
+                "propertyName": null,
+                "province": "Li\u00e8ge",
+                "region": null,
+                "regionCode": null,
+                "street": "Rue Zenobe Gramme, 33A",
+                "type": null
+            },
+            "logoUrl": "https://static.immoweb.be/logos/254911.gif?cache=2024040403983",
+            "mobileNumber": null,
+            "name": "Lamy Construction",
+            "phoneNumber": "+3287314131",
+            "salesRepresentative": null,
+            "type": "PROPERTY_DEVELOPER",
+            "website": "http://www.lamyconstruction.be"
+        }
+    ],
+    "displayFlags": {
+        "main": null,
+        "percentSold": null,
+        "secondary": [
+            "new_real_estate_project"
+        ]
+    },
+    "externalReference": null,
+    "flags": {
+        "adQuality": null,
+        "date": null,
+        "default": null,
+        "isAnInteractiveSale": null,
+        "isInvestmentProject": false,
+        "isLifeAnnuitySale": false,
+        "isLowEnergy": null,
+        "isNewClassified": false,
+        "isNewPrice": false,
+        "isNewRealEstateProject": true,
+        "isNewlyBuilt": true,
+        "isNotarySale": null,
+        "isPassiveHouse": null,
+        "isPublicSale": false,
+        "isSoldOrRented": false,
+        "isUnderOption": false,
+        "percentSold": null,
+        "price": null,
+        "priceSqm": null
+    },
+    "hasSectionsArray": {
+        "hasEnergySection": false,
+        "hasExteriorSection": false,
+        "hasFacilitiesSection": false,
+        "hasFinancialSection": false,
+        "hasGeneralSection": true,
+        "hasInteriorSection": false,
+        "hasPlanningSection": true,
+        "hasPublicSaleSection": false
+    },
+    "id": 9613764,
+    "isBookmarked": false,
+    "media": {
+        "floorPlans": null,
+        "pictures": [
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/736x736/77374a8554f3608633a764cb9362680b.jpg?cache=20240229111025",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/300x300/77374a8554f3608633a764cb9362680b.jpg?cache=20240229111025",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/100x100/77374a8554f3608633a764cb9362680b.jpg?cache=20240229111025"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/736x736/cb6c6f3a3de4ba7b7356a074ede471a4.jpg?cache=20240229111025",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/300x300/cb6c6f3a3de4ba7b7356a074ede471a4.jpg?cache=20240229111025",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/100x100/cb6c6f3a3de4ba7b7356a074ede471a4.jpg?cache=20240229111025"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/736x736/0d6a0e376fd9f8fc51fc77ba6652e3ea.jpg?cache=20240229111025",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/300x300/0d6a0e376fd9f8fc51fc77ba6652e3ea.jpg?cache=20240229111025",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/100x100/0d6a0e376fd9f8fc51fc77ba6652e3ea.jpg?cache=20240229111025"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/736x736/36deea18a93b33ef839fb911e7534cc3.jpg?cache=20240229111025",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/300x300/36deea18a93b33ef839fb911e7534cc3.jpg?cache=20240229111025",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/100x100/36deea18a93b33ef839fb911e7534cc3.jpg?cache=20240229111025"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/736x736/f6838b069c92ee2e379619b8dc66fe08.jpg?cache=20240229111025",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/300x300/f6838b069c92ee2e379619b8dc66fe08.jpg?cache=20240229111025",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/1c9187f8-2f36-5cc6-8c25-21fd311b6e7c/100x100/f6838b069c92ee2e379619b8dc66fe08.jpg?cache=20240229111025"
+            }
+        ],
+        "specifications": null,
+        "virtualExperienceUrl": null,
+        "virtualTourUrl": null
+    },
+    "premiumProjectPage": {
+        "medias": null,
+        "options": null,
+        "promoter": null,
+        "tabs": null
+    },
+    "price": {
+        "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac332,124 - \u20ac362,591</span>",
+        "accessibilityPrice": "From 332124\u20ac To 362591\u20ac",
+        "additionalValue": null,
+        "alternativeDisplayPrice": "",
+        "alternativeValue": null,
+        "date": null,
+        "label": "Min price - Max price",
+        "language": "en",
+        "mainDisplayPrice": "\u20ac332,124 - \u20ac362,591",
+        "mainValue": null,
+        "maxRangeValue": 362591,
+        "minRangeValue": 332124,
+        "oldDisplayPrice": null,
+        "oldValue": null,
+        "shortDisplayPrice": "\u20ac332.1K - 362.6K",
+        "type": "group_sale"
+    },
+    "priceType": null,
+    "property": {
+        "alternativeDescriptions": {
+            "fr": "La nouvelle phase de construction de Mons-Lez-Li\u00e8ge comporte 14 maisons neuves 2-3 fa\u00e7ades.\r\nSon emplacement est id\u00e9al : Proche de Li\u00e8ge et des grands axes routiers, notre quartier de Mons Lez Li\u00e8ge se situe dans un petit \u00e9crin de verdure, calme & familial. \r\n\r\nAvec une surface habitable pouvant aller jusqu\u2019\u00e0 163 m\u00b2, ces 14 nouvelles constructions ont \u00e9t\u00e9 con\u00e7ues afin de fournir le parfait environnement pour toute la famille. Les pi\u00e8ces de vie au rez-de-jardin rendent les espaces de vie lumineux tout en offrant une atmosph\u00e8re agr\u00e9able. Le nombre de chambres pouvant \u00eatre am\u00e9nag\u00e9 selon votre choix, les maisons Lamy s'adaptent \u00e0 vos envies. \r\n\r\nPour plus de renseignements n'h\u00e9sitez pas \u00e0 nous contacter sur www.lamyconstruction.be"
+        },
+        "attic": null,
+        "basement": null,
+        "bathroomCount": null,
+        "bathrooms": [],
+        "bedroomCount": null,
+        "bedroomSurface": null,
+        "bedrooms": [],
+        "building": null,
+        "constructionPermit": {
+            "constructionType": null,
+            "floodZoneIconUrl": null,
+            "floodZoneType": null,
+            "gScore": null,
+            "hasObligationToConstruct": null,
+            "hasPlotDivisionAuthorization": true,
+            "hasPossiblePriorityPurchaseRight": null,
+            "isBreachingUrbanPlanningRegulation": null,
+            "isObtained": true,
+            "pScore": null,
+            "totalBuildableGroundFloorSurface": 0,
+            "urbanPlanningInformation": null
+        },
+        "description": null,
+        "diningRoom": null,
+        "energy": null,
+        "fireplaceCount": null,
+        "fireplaceExists": false,
+        "gardenOrientation": null,
+        "gardenSurface": null,
+        "habitableUnitCount": null,
+        "hasAirConditioning": null,
+        "hasArmoredDoor": null,
+        "hasAttic": null,
+        "hasBalcony": null,
+        "hasBarbecue": null,
+        "hasBasement": null,
+        "hasCableTV": null,
+        "hasCaretakerOrConcierge": null,
+        "hasDiningRoom": null,
+        "hasDisabledAccess": null,
+        "hasDoorPhone": null,
+        "hasDressingRoom": null,
+        "hasFitnessRoom": null,
+        "hasGarden": null,
+        "hasHammam": null,
+        "hasInternet": null,
+        "hasJacuzzi": null,
+        "hasLaundryRoom": null,
+        "hasLift": null,
+        "hasLivingRoom": false,
+        "hasSauna": null,
+        "hasSecureAccessAlarm": null,
+        "hasSwimmingPool": null,
+        "hasTennisCourt": null,
+        "hasTerrace": null,
+        "hasVisiophone": null,
+        "isFirstOccupation": null,
+        "isHolidayProperty": null,
+        "kitchen": null,
+        "land": null,
+        "laundryRoom": null,
+        "livingRoom": null,
+        "location": {
+            "approximated": null,
+            "box": null,
+            "country": "Belgium",
+            "distance": null,
+            "district": "Li\u00e8ge",
+            "floor": null,
+            "hasSeaView": null,
+            "latitude": 50.6208546,
+            "locality": "Fl\u00e9malle-Grande",
+            "longitude": 5.4537968,
+            "number": null,
+            "placeName": "Les Bocages",
+            "pointsOfInterest": [
+                {
+                    "distance": 0,
+                    "type": "SCHOOL"
+                },
+                {
+                    "distance": 0,
+                    "type": "SHOPS"
+                },
+                {
+                    "distance": 0,
+                    "type": "TRANSPORT"
+                }
+            ],
+            "postalCode": "4400",
+            "propertyName": null,
+            "province": "Li\u00e8ge",
+            "region": "Wallonie",
+            "regionCode": "WALLONIE",
+            "street": "Rue les bocages",
+            "type": null
+        },
+        "monthlyCosts": null,
+        "name": null,
+        "netHabitableSurface": null,
+        "parkingCountClosedBox": null,
+        "parkingCountIndoor": null,
+        "parkingCountOutdoor": null,
+        "propertyCertificates": null,
+        "roomCount": null,
+        "showerRoomCount": null,
+        "showerRooms": [],
+        "specificities": null,
+        "subtype": "HOUSE_GROUP",
+        "terraceOrientation": null,
+        "terraceSurface": null,
+        "title": null,
+        "toiletCount": null,
+        "toilets": [],
+        "type": "HOUSE_GROUP"
+    },
+    "publication": {
+        "creationDate": "2021-11-12T06:47:17.000+0000",
+        "expirationDate": "2024-04-30T21:59:59.000+0000",
+        "lastModificationDate": "2024-05-02T06:48:56.910+0000",
+        "publisherId": null,
+        "visualisationOption": "L"
+    },
+    "statistics": {
+        "alertPrice": null,
+        "bookmarkCount": 59,
+        "creationDate": null,
+        "description": null,
+        "isAlertEmailSet": null,
+        "rating": null,
+        "viewCount": 10067,
+        "wasOwnerContacted": null,
+        "wasPropertyVisited": null
+    },
+    "transaction": {
+        "availabilityDate": null,
+        "availabilityPeriodType": "AT_DELIVERY",
+        "certificates": null,
+        "investor": {
+            "currentMonthlyRentalIncome": null,
+            "currentReturnOnInvestment": null,
+            "expectedMonthlyRentalIncome": null,
+            "expectedMonthlyRentalIncomeDescription": null,
+            "expectedReturnOnInvestment": null,
+            "habitableUnitCount": null,
+            "isInvestmentProperty": false,
+            "occupancyRate": null
+        },
+        "rental": null,
+        "sale": {
+            "cadastralIncome": 0,
+            "hasStartingPrice": null,
+            "homeToBuild": null,
+            "isFurnished": null,
+            "isSubjectToVat": false,
+            "lifeAnnuity": null,
+            "newBuildsLandPrice": "",
+            "newBuildsLandTaxes": "",
+            "newBuildsTotalPrice": "",
+            "newBuildsVAT": "",
+            "oldPrice": null,
+            "price": null,
+            "pricePerSqm": null,
+            "publicSale": null
+        },
+        "subtype": "BUY_REGULAR",
+        "type": "FOR_SALE"
+    },
+    "unitGroupings": []
+}
+Traceback (most recent call last):
+  File "/opt/airflow/dags/eliza/collection/scrapy/immoweb/spiders/immoweb.py", line 128, in parse_property
+    if sub_property.get('saleStatus', 'SOLD') == 'SOLD':
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'get'
+
+https://www.immoweb.be/en/classified/house_group/for-sale/Fl%C3%A9malle-Grande/4400/9613764

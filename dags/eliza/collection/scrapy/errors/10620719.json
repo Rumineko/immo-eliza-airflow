@@ -1,0 +1,454 @@
+{
+    "cluster": {
+        "bedroomRange": "1 - 2",
+        "maxPrice": 360520,
+        "maxPriceVAT": null,
+        "maxSurface": 114,
+        "minPrice": 255439,
+        "minPriceVAT": null,
+        "minSurface": 56,
+        "projectInfo": {
+            "constructor": null,
+            "deliveryDate": null,
+            "groupId": 10620719,
+            "phase": null,
+            "projectName": "Den Tripel",
+            "soldPercentage": null,
+            "unitsDisplayMode": "STANDARD"
+        },
+        "surfaceRange": "56 - 114",
+        "units": [
+            {
+                "bedroomCount": 1,
+                "items": [
+                    10647211,
+                    10646950,
+                    10647227,
+                    10646982,
+                    10646983
+                ],
+                "maxPrice": 270625,
+                "maxSurface": 64,
+                "minPrice": 255439,
+                "minSurface": 56,
+                "mnemonic": "DUPLEX_1BDR",
+                "propertySubtype": "DUPLEX",
+                "propertyType": "APARTMENT",
+                "soldCount": 0
+            },
+            {
+                "bedroomCount": 1,
+                "items": [
+                    10647026,
+                    10647235,
+                    10647020,
+                    10647239
+                ],
+                "maxPrice": 265635,
+                "maxSurface": 75,
+                "minPrice": 260525,
+                "minSurface": 73,
+                "mnemonic": "TRIPLEX_1BDR",
+                "propertySubtype": "TRIPLEX",
+                "propertyType": "APARTMENT",
+                "soldCount": 0
+            },
+            {
+                "bedroomCount": 1,
+                "items": [
+                    10647191,
+                    10647170
+                ],
+                "maxPrice": 300650,
+                "maxSurface": 71,
+                "minPrice": 270523,
+                "minSurface": 71,
+                "mnemonic": "APARTMENT_1BDR",
+                "propertySubtype": "APARTMENT",
+                "propertyType": "APARTMENT",
+                "soldCount": 0
+            },
+            {
+                "bedroomCount": 1,
+                "items": [
+                    10647030,
+                    10647256,
+                    10647245
+                ],
+                "maxPrice": 330876,
+                "maxSurface": 92,
+                "minPrice": 320225,
+                "minSurface": 81,
+                "mnemonic": "GROUNDFLOOR_1BDR",
+                "propertySubtype": "GROUND_FLOOR",
+                "propertyType": "APARTMENT",
+                "soldCount": 0
+            },
+            {
+                "bedroomCount": 2,
+                "items": [
+                    10647158
+                ],
+                "maxPrice": 350875,
+                "maxSurface": 114,
+                "minPrice": 350875,
+                "minSurface": 114,
+                "mnemonic": "DUPLEX_2BDR",
+                "propertySubtype": "DUPLEX",
+                "propertyType": "APARTMENT",
+                "soldCount": 0
+            },
+            {
+                "bedroomCount": 2,
+                "items": [
+                    10647258
+                ],
+                "maxPrice": 360520,
+                "maxSurface": 89,
+                "minPrice": 360520,
+                "minSurface": 89,
+                "mnemonic": "APARTMENT_2BDR",
+                "propertySubtype": "APARTMENT",
+                "propertyType": "APARTMENT",
+                "soldCount": 0
+            }
+        ]
+    },
+    "customers": [
+        {
+            "contactHoursLandline": "anytime",
+            "contactHoursMobile": "anytime",
+            "email": "info@projectdentripel.be",
+            "features": {
+                "investorFlag": false,
+                "leadQualification": false,
+                "leafletsCTA": false,
+                "page404": false,
+                "recommendation": false,
+                "relatedClassifieds": false
+            },
+            "id": 3910399,
+            "ipiNo": null,
+            "isOwner": true,
+            "location": {
+                "approximated": null,
+                "box": null,
+                "country": "Belgium",
+                "distance": null,
+                "district": "Halle-Vilvoorde",
+                "floor": null,
+                "hasSeaView": null,
+                "latitude": 50.9440815,
+                "locality": "Kampenhout",
+                "longitude": 4.5652534,
+                "number": null,
+                "placeName": null,
+                "pointsOfInterest": null,
+                "postalCode": "1910",
+                "propertyName": null,
+                "province": "Flemish Brabant",
+                "region": null,
+                "regionCode": null,
+                "street": "Haachtsesteenweg 391   Bus 10",
+                "type": null
+            },
+            "logoUrl": null,
+            "mobileNumber": "+32 495264444",
+            "name": "GG+",
+            "phoneNumber": null,
+            "salesRepresentative": null,
+            "type": "COMPANY_PAYING_WITH_OGONE",
+            "website": null
+        }
+    ],
+    "displayFlags": {
+        "main": null,
+        "percentSold": null,
+        "secondary": [
+            "new_real_estate_project"
+        ]
+    },
+    "externalReference": null,
+    "flags": {
+        "adQuality": null,
+        "date": null,
+        "default": null,
+        "isAnInteractiveSale": null,
+        "isInvestmentProject": false,
+        "isLifeAnnuitySale": false,
+        "isLowEnergy": null,
+        "isNewClassified": false,
+        "isNewPrice": false,
+        "isNewRealEstateProject": true,
+        "isNewlyBuilt": true,
+        "isNotarySale": null,
+        "isPassiveHouse": null,
+        "isPublicSale": false,
+        "isSoldOrRented": false,
+        "isUnderOption": false,
+        "percentSold": null,
+        "price": null,
+        "priceSqm": null
+    },
+    "hasSectionsArray": {
+        "hasEnergySection": false,
+        "hasExteriorSection": false,
+        "hasFacilitiesSection": false,
+        "hasFinancialSection": false,
+        "hasGeneralSection": true,
+        "hasInteriorSection": false,
+        "hasPlanningSection": true,
+        "hasPublicSaleSection": false
+    },
+    "id": 10620719,
+    "isBookmarked": false,
+    "media": {
+        "floorPlans": null,
+        "pictures": [
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/736x736/392496fc5ea05ec4da3ccd0ba73183b8.jpg?cache=20231025105542",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/300x300/392496fc5ea05ec4da3ccd0ba73183b8.jpg?cache=20231025105542",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/100x100/392496fc5ea05ec4da3ccd0ba73183b8.jpg?cache=20231025105542"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/736x736/2e59e7ad4893e89189e5288cdbe2b6f1.jpg?cache=20231025105542",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/300x300/2e59e7ad4893e89189e5288cdbe2b6f1.jpg?cache=20231025105542",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/100x100/2e59e7ad4893e89189e5288cdbe2b6f1.jpg?cache=20231025105542"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/736x736/a68f050827c825741540f52c2cebebb7.jpg?cache=20231025105542",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/300x300/a68f050827c825741540f52c2cebebb7.jpg?cache=20231025105542",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/100x100/a68f050827c825741540f52c2cebebb7.jpg?cache=20231025105542"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/736x736/6ed457a702ca4afd28870322e7b6869e.jpg?cache=20231025105542",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/300x300/6ed457a702ca4afd28870322e7b6869e.jpg?cache=20231025105542",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/100x100/6ed457a702ca4afd28870322e7b6869e.jpg?cache=20231025105542"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/736x736/4a3b728b3ded68feb27d2c0c06a76d48.jpg?cache=20231025105542",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/300x300/4a3b728b3ded68feb27d2c0c06a76d48.jpg?cache=20231025105542",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/100x100/4a3b728b3ded68feb27d2c0c06a76d48.jpg?cache=20231025105542"
+            },
+            {
+                "isVertical": false,
+                "largeUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/736x736/6b24871d5d8bf073cf0deaaa61072c99.jpg?cache=20231025105542",
+                "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/300x300/6b24871d5d8bf073cf0deaaa61072c99.jpg?cache=20231025105542",
+                "smallUrl": "https://media-resize.immowebstatic.be/classifieds/6511d1e8-6a5f-5f89-b95c-3efac7c94138/100x100/6b24871d5d8bf073cf0deaaa61072c99.jpg?cache=20231025105542"
+            }
+        ],
+        "specifications": null,
+        "virtualExperienceUrl": null,
+        "virtualTourUrl": null
+    },
+    "premiumProjectPage": {
+        "medias": null,
+        "options": null,
+        "promoter": null,
+        "tabs": null
+    },
+    "price": {
+        "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac255,439 - \u20ac360,520</span>",
+        "accessibilityPrice": "From 255439\u20ac To 360520\u20ac",
+        "additionalValue": null,
+        "alternativeDisplayPrice": "",
+        "alternativeValue": null,
+        "date": null,
+        "label": "Min price - Max price",
+        "language": "en",
+        "mainDisplayPrice": "\u20ac255,439 - \u20ac360,520",
+        "mainValue": null,
+        "maxRangeValue": 360520,
+        "minRangeValue": 255439,
+        "oldDisplayPrice": null,
+        "oldValue": null,
+        "shortDisplayPrice": "\u20ac255.4K - 360.5K",
+        "type": "group_sale"
+    },
+    "priceType": null,
+    "property": {
+        "alternativeDescriptions": {
+            "nl": "Het project beschikt over 24 appartementen en 1 commerci\u00eble ruimte welke ingericht zal worden als horeca. Op de kelderverdieping bevinden zich 23 parkeerplaatsen waarbij er enkele ook beschikken over een berging. Ook is er een gemeenschappelijke fietsenberging voorzien. Elk appartement heeft een terras of tuin welke geniet van volledige privacy!- Bewoonbare oppervlaktes: 52,6 m\u00b2 - 177,6 m\u00b2\r\n- Oppervlakte terras/tuin: 5,3 m\u00b2 - 73,3 m\u00b2\r\n- Aantal slaapkamers: 1-4\r\n- Aantal badkamers: 1-2"
+        },
+        "attic": null,
+        "basement": null,
+        "bathroomCount": null,
+        "bathrooms": [],
+        "bedroomCount": null,
+        "bedroomSurface": null,
+        "bedrooms": [],
+        "building": null,
+        "constructionPermit": {
+            "constructionType": null,
+            "floodZoneIconUrl": null,
+            "floodZoneType": "NON_FLOOD_ZONE",
+            "gScore": null,
+            "hasObligationToConstruct": null,
+            "hasPlotDivisionAuthorization": null,
+            "hasPossiblePriorityPurchaseRight": false,
+            "isBreachingUrbanPlanningRegulation": false,
+            "isObtained": true,
+            "pScore": null,
+            "totalBuildableGroundFloorSurface": 0,
+            "urbanPlanningInformation": null
+        },
+        "description": null,
+        "diningRoom": null,
+        "energy": null,
+        "fireplaceCount": null,
+        "fireplaceExists": false,
+        "gardenOrientation": null,
+        "gardenSurface": null,
+        "habitableUnitCount": null,
+        "hasAirConditioning": null,
+        "hasArmoredDoor": null,
+        "hasAttic": null,
+        "hasBalcony": null,
+        "hasBarbecue": null,
+        "hasBasement": null,
+        "hasCableTV": null,
+        "hasCaretakerOrConcierge": null,
+        "hasDiningRoom": null,
+        "hasDisabledAccess": null,
+        "hasDoorPhone": null,
+        "hasDressingRoom": null,
+        "hasFitnessRoom": null,
+        "hasGarden": null,
+        "hasHammam": null,
+        "hasInternet": null,
+        "hasJacuzzi": null,
+        "hasLaundryRoom": null,
+        "hasLift": null,
+        "hasLivingRoom": false,
+        "hasSauna": null,
+        "hasSecureAccessAlarm": null,
+        "hasSwimmingPool": null,
+        "hasTennisCourt": null,
+        "hasTerrace": null,
+        "hasVisiophone": null,
+        "isFirstOccupation": null,
+        "isHolidayProperty": null,
+        "kitchen": null,
+        "land": null,
+        "laundryRoom": null,
+        "livingRoom": null,
+        "location": {
+            "approximated": null,
+            "box": null,
+            "country": "Belgium",
+            "distance": null,
+            "district": "Halle-Vilvoorde",
+            "floor": null,
+            "hasSeaView": null,
+            "latitude": 50.9416676,
+            "locality": "Kampenhout",
+            "longitude": 4.5484666,
+            "number": null,
+            "placeName": "Dorpscentrum",
+            "pointsOfInterest": [
+                {
+                    "distance": 50,
+                    "type": "SCHOOL"
+                },
+                {
+                    "distance": 50,
+                    "type": "SHOPS"
+                },
+                {
+                    "distance": 50,
+                    "type": "TRANSPORT"
+                }
+            ],
+            "postalCode": "1910",
+            "propertyName": null,
+            "province": "Flemish Brabant",
+            "region": "Flanders",
+            "regionCode": "FLANDERS",
+            "street": "Dorpsstraat",
+            "type": null
+        },
+        "monthlyCosts": null,
+        "name": null,
+        "netHabitableSurface": null,
+        "parkingCountClosedBox": null,
+        "parkingCountIndoor": 23,
+        "parkingCountOutdoor": null,
+        "propertyCertificates": null,
+        "roomCount": null,
+        "showerRoomCount": null,
+        "showerRooms": [],
+        "specificities": null,
+        "subtype": "APARTMENT_GROUP",
+        "terraceOrientation": null,
+        "terraceSurface": null,
+        "title": null,
+        "toiletCount": null,
+        "toilets": [],
+        "type": "APARTMENT_GROUP"
+    },
+    "publication": {
+        "creationDate": "2023-06-08T12:24:02.000+0000",
+        "expirationDate": "2024-06-15T22:59:59.000+0000",
+        "lastModificationDate": "2024-03-19T07:24:01.930+0000",
+        "publisherId": null,
+        "visualisationOption": "M"
+    },
+    "statistics": {
+        "alertPrice": null,
+        "bookmarkCount": 37,
+        "creationDate": null,
+        "description": null,
+        "isAlertEmailSet": null,
+        "rating": null,
+        "viewCount": 7834,
+        "wasOwnerContacted": null,
+        "wasPropertyVisited": null
+    },
+    "transaction": {
+        "availabilityDate": null,
+        "availabilityPeriodType": null,
+        "certificates": null,
+        "investor": {
+            "currentMonthlyRentalIncome": null,
+            "currentReturnOnInvestment": null,
+            "expectedMonthlyRentalIncome": null,
+            "expectedMonthlyRentalIncomeDescription": null,
+            "expectedReturnOnInvestment": null,
+            "habitableUnitCount": null,
+            "isInvestmentProperty": false,
+            "occupancyRate": null
+        },
+        "rental": null,
+        "sale": {
+            "cadastralIncome": 0,
+            "hasStartingPrice": null,
+            "homeToBuild": null,
+            "isFurnished": null,
+            "isSubjectToVat": false,
+            "lifeAnnuity": null,
+            "newBuildsLandPrice": "",
+            "newBuildsLandTaxes": "",
+            "newBuildsTotalPrice": "",
+            "newBuildsVAT": "",
+            "oldPrice": null,
+            "price": null,
+            "pricePerSqm": null,
+            "publicSale": null
+        },
+        "subtype": "BUY_REGULAR",
+        "type": "FOR_SALE"
+    },
+    "unitGroupings": []
+}
+Traceback (most recent call last):
+  File "/opt/airflow/dags/eliza/collection/scrapy/immoweb/spiders/immoweb.py", line 128, in parse_property
+    if sub_property.get('saleStatus', 'SOLD') == 'SOLD':
+       ^^^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'get'
+
+https://www.immoweb.be/en/classified/apartment_group/for-sale/Kampenhout/1910/10620719
