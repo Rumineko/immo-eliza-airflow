@@ -10,7 +10,7 @@
     <a><img alt="Latest Version" src="https://forthebadge.com/images/featured/featured-built-with-love.svg"></a>
     <br>
     <br>
-    <a><img alt="Charlie" src="https://camo.githubusercontent.com/fa2625327c912ea67d93c9b2c2a6d3dab6625c5b74cb9fe349ba6fddd5422ea4/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313230393035333033353738333931333530322f313231343839333532313231323031383735382f436861726c69655f3130302e706e673f65783d36363136373434332669733d363630336666343326686d3d6666613030613835303364316430393930363839633561303237653766366565636661333630633164613462383635333437383930353436393637343031353926"></a>
+    <a><img alt="Charlie" src="./assets/Charlie_100.png"></a>
     <h2 align="center">Using:
     <br>
     <br>
@@ -27,7 +27,7 @@ To finish up HermitCrab's ImmoEliza project, we determined that it would be nece
 To do so, we have made implemented and adapted our program to Apache Airflow, with the goal of creating a pipeline to automatically run the tasks every day.
 
 ## 📋 Pipeline Structure
-The pipeline runs daily, and follows the following structure:
+The pipeline runs daily at 02:00 CE(S)T. The reasoning is to minimizing server load when obtaining new data and adding it to our database. The pipeline has the following structure:
 
 ![ElizaPipeline](./assets/immo-eliza-schema.png)
 
